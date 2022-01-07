@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+#  Maziar Gomrokchi <br /> 
 
-You can use the [editor on GitHub](https://github.com/maziarg/maziarg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[About](about) | [Projects](projects) | [Research](research) | [Awards](awards) | [Hobbies](hobbies)
+<p align="center">
+  <img src="images/profile.jpg" width="600"/>
+ 
+## About
+  I am a final year of PhD. student at <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and at <a href="https://mila.quebec/en/">Mila</a> working with <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My broad research domains are machine learning, reinforcement learning and data privacy. My current reserach focus is on developing privacy-preserving machine learning systems. My goal is to design and develope privacy-aware machine learning algorithms that serve as the main core of AI systems. 
 
-### Markdown
+During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first membersbership infrence attacked against off-policy RL systems.
+  
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**TBA.**
 
-```markdown
-Syntax highlighted code block
+## Research
 
-# Header 1
-## Header 2
-### Header 3
+- Exploration in RL
+- Privacy-Preserving RL
+- MIA against off-policy deep RL models
 
-- Bulleted
-- List
+## Awards
 
-1. Numbered
-2. List
+- [billmei.net](https://billmei.net/)
+- [bawejakunal.github.io](https://bawejakunal.github.io/)
+- [case2111.github.io](https://case2111.github.io/)
+- [karateca.org](https://www.karateca.org/)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maziarg/maziarg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Hobbies
