@@ -1,11 +1,15 @@
 <span class="tab">  <a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;[<img src="images/social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;[<img src="images/social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/)
 
-[About](#about) | [Projects](#projects) | [Research](#research) | [Awards](#awards) | [Hobbies](#hobbies)
+[News](#news) | [About](#about) | [Projects](#projects) | [Research](#research) | [Awards](#awards) | [Hobbies](#hobbies)
  
 <p align="center">
   <img src="images/profile.jpg" width="600"/>
 
 <br/>
+
+ ## News
+ 
+ I am on job market!
  
 ## About
   I am a final year of PhD. student at <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and at <a href="https://mila.quebec/en/">Mila</a> working with <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
