@@ -1,2 +1,1 @@
-theme: jekyll-theme-minimal
-title: Mazair Gomrokchi's homepage
+Mazair Gomrokchi's homepage
