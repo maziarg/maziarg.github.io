@@ -15,8 +15,7 @@ My broad research domains are machine learning, reinforcement learning and data 
 During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first membersbership infrence attacked against off-policy RL systems.
   
 ## Projects
-
-**TBA.**
+TBA.
 
 ## Research
 
@@ -26,7 +25,6 @@ During my studies, I designed and developed the first generation of privacy-pres
 - MIA against off-policy deep RL models
 
 ## Awards
-
-**TBA.**
+TBA.
 
 ## Hobbies
