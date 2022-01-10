@@ -1,6 +1,6 @@
 <span class="tab">  <a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;[<img src="images/social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;[<img src="images/social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/)
 
-[About](About) | [Projects](Projects) | [Research](Research) | [Awards](Awards) | [Hobbies](Hobbies)
+[About](about) | [Projects](-projects) | [Research](-research) | [Awards](-awards) | [Hobbies](-hobbies)
  
 <p align="center">
   <img src="images/profile.jpg" width="600"/>
@@ -14,11 +14,11 @@ My broad research domains are machine learning, reinforcement learning and data 
 
 During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first membersbership infrence attacked against off-policy RL systems.
   
-## Projects
+# Projects
 
 **TBA.**
 
-# Research
+#Research
 
 - Exploration in RL
 - Privacy-Preserving Machine Learning
