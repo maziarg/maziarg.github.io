@@ -1,1 +1,1 @@
-Mazair Gomrokchi's homepage
+Mazair Gomrokchi
