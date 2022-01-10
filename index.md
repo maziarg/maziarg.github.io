@@ -23,7 +23,7 @@ TBA.
 
 # Research
 
-- Exploration in RL
+- Exploration in Reinforcement Learning 
 - Privacy-Preserving Machine Learning
 - Differential Privacy
 - MIA against off-policy deep RL models
