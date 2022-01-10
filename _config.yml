@@ -1,3 +1,2 @@
-plugins:
-  - jekyll-seo-tag
-title: Maziar Gomrokchi
+theme: jekyll-theme-minimal
+title: Maziar Gomrokchi's homepage
