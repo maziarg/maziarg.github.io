@@ -1,2 +1,2 @@
-# maziarg.github.io
-Maziar Gomrokchi's personal page
+theme: jekyll-theme-minimal
+title: Mazair Gomrokchi's homepage
