@@ -19,14 +19,12 @@ During my studies, I designed and developed the first generation of privacy-pres
 ## Research
 
 - Exploration in RL
-- Privacy-Preserving RL
+- Privacy-Preserving Machine Learning
+- Differential Privacy
 - MIA against off-policy deep RL models
 
 ## Awards
 
-- [billmei.net](https://billmei.net/)
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+**TBA.**
 
 ## Hobbies
