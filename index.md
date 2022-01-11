@@ -1,6 +1,6 @@
 <!-- <span class="tab">  <a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;[<img src="images/social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;[<img src="images/social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/) -->
 
-#### <p> <a href = "#News"> </a> News </p> | [About](#about) | [Projects](#projects) | [Research](#research) | [Awards](#awards)
+#### <a href = #news> News </a>  | [About](#about) | [Projects](#projects) | [Research](#research) | [Awards](#awards)
  
 <p align="center">
   <img src="images/profile.jpg" width="600"/>
