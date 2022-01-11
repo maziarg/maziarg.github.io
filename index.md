@@ -8,7 +8,6 @@
 <br/>
 
 # News
- 
  <br/>
  I am on job market!
  
@@ -32,6 +31,8 @@ TBA.
 <br/>
 
 # Research
+<br/>
+
 
 - Exploration in Reinforcement Learning 
 - Privacy-Preserving Machine Learning
