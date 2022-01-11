@@ -3,7 +3,7 @@
 #### [News](#news) | [About](#about) | [Projects](#projects) | [Research](#research) | [Awards](#awards)
  
 <p align="center">
-  <img src="images/profile.jpg" width="600"/>
+  <img src="images/profile-c.png" width="600"/>
 
 <br/>
 
