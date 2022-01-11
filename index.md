@@ -1,13 +1,13 @@
 <!-- <span class="tab">  <a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;[<img src="images/social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;[<img src="images/social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/) -->
 
-#### <a href = #news> News </a>  | [About](#about) | [Projects](#projects) | [Research](#research) | [Awards](#awards)
+#### <a href = "#News"> News </a>  | <a href = "#About"> About </a> | <a href = "#Projects"> Projects </a> | <a href = "#Research"> Research </a> | <a href = "#Awards"> Awards </a>
  
 <p align="center">
   <img src="images/profile.jpg" width="600"/>
 
 <br/>
 
-<h2 id="News"> News</h2>
+<h2 id="News">News</h2> 
  
  <br/>
  I am on job market!
@@ -15,7 +15,7 @@
  <br/>
  
 
-# About
+<h2 id="About">About</h2> 
 <br/>
  
   I am a final year of PhD. student at <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and at <a href="https://mila.quebec/en/">Mila</a> working with <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
@@ -25,14 +25,12 @@ My broad research domains are machine learning, reinforcement learning and data 
 During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first membersbership infrence attacked against off-policy RL systems.
  <br/>
   
-# Projects
-<br/>
+<h2 id="Projects">Projects</h2> <br/>
 
 TBA.
 <br/>
 
-# Research
-
+<h2 id="Research">Research</h2> 
 - Exploration in Reinforcement Learning 
 - Privacy-Preserving Machine Learning
 - Differential Privacy
@@ -40,7 +38,7 @@ TBA.
 
 <br/>
 
-# Awards
+<h2 id="Awards">Awards</h2> 
 <br/>
 
 TBA.
