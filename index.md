@@ -1,13 +1,14 @@
 <!-- <span class="tab">  <a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;[<img src="images/social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;[<img src="images/social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/) -->
 
-#### [News](#news) | [About](#about) | [Projects](#projects) | [Research](#research) | [Awards](#awards)
+#### <p> <a href = "#News"> </a> News </p> | [About](#about) | [Projects](#projects) | [Research](#research) | [Awards](#awards)
  
 <p align="center">
-  <img src="images/profile-c.png" width="600"/>
+  <img src="images/profile.jpg" width="600"/>
 
 <br/>
 
-# News
+<h2 id="News"> News</h2>
+ 
  <br/>
  I am on job market!
  
@@ -31,8 +32,6 @@ TBA.
 <br/>
 
 # Research
-<br/>
-
 
 - Exploration in Reinforcement Learning 
 - Privacy-Preserving Machine Learning
