@@ -16,7 +16,7 @@
 
 My broad research domains are machine learning, reinforcement learning and data privacy. My current reserach focus is on developing privacy-preserving machine learning systems. My goal is to design and develope privacy-aware machine learning algorithms that serve as the main core of AI systems. 
 
-During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first membersbership infrence attacked against off-policy RL systems.
+During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first generation of membersbership infrence attackes (MIA) against off-policy RL systems.
   
 <h2 id="Projects">Projects</h2>
 TBA.
@@ -26,7 +26,7 @@ TBA.
 <li>Exploration in Reinforcement Learning </li>
 <li>Privacy-Preserving Machine Learning </li>
 <li>Differential Privacy </li>
-<li>MIA against off-policy deep RL models </li>
+<li>MIA against deep RL models </li>
 </ul>
 
 <h2 id="Awards">Awards</h2> 
