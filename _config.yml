@@ -11,7 +11,7 @@ description: Here is the description.
 github_username: maziarg
 
 # Email and twitter are optional:
-email: mgomrokchi@gmail.com
+# email: mgomrokchi@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
