@@ -25,7 +25,7 @@ You can view my full up-to-date list of publications <a href="https://scholar.go
 <ul>
 <li>Exploration in Reinforcement Learning </li>
 <li>Privacy-Preserving Machine Learning </li>
-<li>Differential Privacy </li>
+<li>Data Privacy </li>
 <li>MIA against deep RL models </li>
 </ul>
 
