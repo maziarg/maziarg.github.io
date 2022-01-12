@@ -8,7 +8,7 @@
 
 <h2 id="News">News</h2> 
  
- I am on job market!
+ I am on the job market!
 
 <h2 id="About">About</h2> 
  
