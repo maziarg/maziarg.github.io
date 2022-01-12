@@ -3,7 +3,7 @@
 #### <a href = "#News"> News </a>  | <a href = "#About"> About </a> | <a href = "#Projects"> Publications </a> | <a href = "#Research"> Research </a> | <a href = "#Awards"> Awards </a>
  
 <p align="center">
-  <img src="images/profile-c.png" width="250"/>
+  <img src="images/Maziar.jpg" width="250"/>
 
 
 <h2 id="News">News</h2> 
