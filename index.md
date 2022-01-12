@@ -1,3 +1,4 @@
+
 #### <a href = "#News"> News </a>  | <a href = "#About"> About </a> | <a href = "#Projects"> Publications </a> | <a href = "#Research"> Research </a> 
  
 <p align="center">
@@ -29,6 +30,8 @@ During my studies, I designed and developed the first generation of privacy-pres
 <li>membersbership infrence attackes against deep RL models </li>
 </ul>
 
+<hr>
+<hr>
 <p><a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30" /></a>   
 <a href="https://github.com/maziarg"><img src="images/social/github_cat.png" width="30" /></a>   
 <a href="https://scholar.google.com/citations?user=bVazxq8AAAAJ&hl=en&oi=ao"><img src="images/social/gscholar.png" width="30" /></a>   
