@@ -1,6 +1,4 @@
-<!-- <span class="tab">  <a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;[<img src="images/social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;[<img src="images/social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/) -->
-
-#### <a href = "#News"> News </a>  | <a href = "#About"> About </a> | <a href = "#Projects"> Publications </a> | <a href = "#Research"> Research </a> | <a href = "#Awards"> Awards </a>
+#### <a href = "#News"> News </a>  | <a href = "#About"> About </a> | <a href = "#Projects"> Publications </a> | <a href = "#Research"> Research </a> 
  
 <p align="center">
   <img src="images/Maziar-c.png" width="250"/>
@@ -30,8 +28,5 @@ During my studies, I designed and developed the first generation of privacy-pres
 <li>Data Privacy </li>
 <li>membersbership infrence attackes against deep RL models </li>
 </ul>
-
-<h2 id="Awards">Awards</h2> 
-<hr>
- TBA.
  
+<span class="tab">  <a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30"></a> &nbsp;&nbsp;[<img src="images/social/github_cat.png" width="30">](https://github.com/maziarg) &nbsp;&nbsp;[<img src="images/social/linkedin.png" width="25">](https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/)
