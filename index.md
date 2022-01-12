@@ -29,7 +29,7 @@ During my studies, I designed and developed the first generation of privacy-pres
 <li>membersbership infrence attackes against deep RL models </li>
 </ul>
 
-<p><a href="mailto:gomrokma@mila.quebec"><img src="Images/social/email_bw.png" width="30" /></a>   
-<a href="https://github.com/maziarg"><img src="Images/social/github_cat.png" width="30" /></a>   
-<a href="https://scholar.google.com/citations?user=bVazxq8AAAAJ&hl=en&oi=ao"><img src="Images/social/gscholar.png" width="30" /></a>   
-<a href="https://https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/"><img src="Images/social/linkedin.png" width="25" /></a></p>
+<p><a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30" /></a>   
+<a href="https://github.com/maziarg"><img src="images/social/github_cat.png" width="30" /></a>   
+<a href="https://scholar.google.com/citations?user=bVazxq8AAAAJ&hl=en&oi=ao"><img src="images/social/gscholar.png" width="30" /></a>   
+<a href="https://https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/"><img src="images/social/linkedin.png" width="25" /></a></p>
