@@ -36,6 +36,3 @@ During my studies, I designed and developed the first generation of privacy-pres
 <li>Data Privacy </li>
 <li>membersbership infrence attackes against deep RL models </li>
 </ul>
-
-<hr>
-<hr>
