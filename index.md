@@ -11,7 +11,10 @@
 
 <h2 id="News">News</h2> 
 <hr>
- I am on the job market!
+<ul>
+<li> I am on the job market! </li>
+</ul>
+ 
 
 <h2 id="About">About</h2> 
 <hr>
