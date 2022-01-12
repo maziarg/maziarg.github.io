@@ -1,7 +1,7 @@
 <p><a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30" /></a>   
 <a href="https://github.com/maziarg"><img src="images/social/github_cat.png" width="30" /></a>   
 <a href="https://scholar.google.com/citations?user=bVazxq8AAAAJ&hl=en&oi=ao"><img src="images/social/gscholar.png" width="30" /></a>   
-<a href="https://https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/"><img src="images/social/linkedin.png" width="25" /></a></p>
+<a href="https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/"><img src="images/social/linkedin.png" width="25" /></a></p>
 
 #### <a href = "#News"> News </a>  | <a href = "#About"> About </a> | <a href = "#Projects"> Publications </a> | <a href = "#Research"> Research </a> 
  
