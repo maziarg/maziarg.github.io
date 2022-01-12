@@ -27,7 +27,7 @@ During my studies, I designed and developed the first generation of privacy-pres
 <li>Privacy-Preserving Machine Learning </li>
 <li>Data Privacy </li>
 <li>membersbership infrence attackes against deep RL models </li>
-</ul>\
+</ul>
 
 <p><a href="mailto:gomrokma@mila.quebec"><img src="Images/social/email_bw.png" width="30" /></a>   
 <a href="https://github.com/maziarg"><img src="Images/social/github_cat.png" width="30" /></a>   
