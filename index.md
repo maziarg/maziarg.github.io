@@ -8,12 +8,10 @@
 
 <h2 id="News">News</h2> 
 <hr>
- 
  I am on the job market!
 
 <h2 id="About">About</h2> 
 <hr>
- 
  I am a final year of PhD. student at <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and at <a href="https://mila.quebec/en/">Mila</a> working with <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
 
 My broad research domains are machine learning, reinforcement learning and data privacy. My current reserach focus is on developing privacy-preserving machine learning systems. My goal is to design and develope privacy-aware machine learning algorithms that serve as the main core of AI systems. 
@@ -22,12 +20,10 @@ During my studies, I designed and developed the first generation of privacy-pres
   
 <h2 id="Projects">Publications</h2>
 <hr>
-
  You can view my full up-to-date list of publications <a href="https://scholar.google.com/citations?user=bVazxq8AAAAJ&hl=en&oi=ao">here</a>. 
 
 <h2 id="Research">Research</h2> 
 <hr>
-
 <ul>
 <li>Exploration in Reinforcement Learning </li>
 <li>Privacy-Preserving Machine Learning </li>
@@ -37,6 +33,5 @@ During my studies, I designed and developed the first generation of privacy-pres
 
 <h2 id="Awards">Awards</h2> 
 <hr>
-
  TBA.
  
