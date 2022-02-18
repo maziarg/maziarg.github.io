@@ -13,6 +13,7 @@
 <hr>
 <ul>
 <li> I am on the job market! </li>
+<li> Successfully defended my Ph.D. Dissertation! </li>
 </ul>
  
 
