@@ -32,7 +32,7 @@ During my studies, I designed and developed the first generation of privacy-pres
 <h2 id="Research">Research</h2> 
 <hr>
 <ul>
-<li>Exploration in Reinforcement Learning </li>
+<li>Deep Reinforcement Learning</li>
 <li>Privacy-Preserving Machine Learning </li>
 <li>Data Privacy </li>
 <li>membersbership infrence attackes against deep RL models </li>
