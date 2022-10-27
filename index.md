@@ -12,14 +12,14 @@
 <h2 id="News">News</h2> 
 <hr>
 <ul>
-<li> I am on the job market! </li>
+<li> Sr. Machine Learning Scientist at System1! </li>
 <li> Successfully defended my Ph.D. Dissertation! </li>
 </ul>
  
 
 <h2 id="About">About</h2> 
 <hr>
- I am a final year of PhD. student at <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and at <a href="https://mila.quebec/en/">Mila</a> working with <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
+ I am a senior Machine Learning Scientist at System1! I obtained my PhD from <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and <a href="https://mila.quebec/en/">Mila</a> under the supervision of <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
 
 My broad research domains are machine learning, reinforcement learning and data privacy. My current reserach focus is on developing privacy-preserving machine learning systems. My goal is to design and develope privacy-aware machine learning algorithms that serve as the main core of AI systems. 
 
