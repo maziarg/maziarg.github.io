@@ -1,4 +1,4 @@
-<p><a href="mailto:gomrokma@mila.quebec"><img src="images/social/email_bw.png" width="30" /></a>   
+<p><a href="mailto:mgomrokma@gmail.com"><img src="images/social/email_bw.png" width="30" /></a>   
 <a href="https://github.com/maziarg"><img src="images/social/github_cat.png" width="30" /></a>   
 <a href="https://scholar.google.com/citations?user=bVazxq8AAAAJ&hl=en&oi=ao"><img src="images/social/gscholar.png" width="30" /></a>   
 <a href="https://www.linkedin.com/in/maziar-gomrokchi-ba1418224/"><img src="images/social/linkedin.png" width="25" /></a></p>
@@ -21,9 +21,9 @@
 <hr>
  I am a senior Machine Learning Scientist at System1! I obtained my PhD from <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and <a href="https://mila.quebec/en/">Mila</a> under the supervision of <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
 
-My broad research domains are machine learning, reinforcement learning and data privacy. My current reserach focus is on developing privacy-preserving machine learning systems. My goal is to design and develope privacy-aware machine learning algorithms that serve as the main core of AI systems. 
+My broad research domains are machine learning, reinforcement learning and data privacy. My current research focus is on developing privacy-preserving machine learning systems. My goal is to design and develop privacy-aware machine learning algorithms that serve as the central core of AI systems. 
 
-During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first generation of membersbership infrence attackes against off-policy RL systems.
+During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first generation of membership infrence attacks against off-policy RL systems.
   
 <h2 id="Projects">Publications</h2>
 <hr>
@@ -35,5 +35,5 @@ During my studies, I designed and developed the first generation of privacy-pres
 <li>Deep Reinforcement Learning</li>
 <li>Privacy-Preserving Machine Learning </li>
 <li>Data Privacy </li>
-<li>membersbership infrence attackes against deep RL models </li>
+<li>membersbership inference attacks against deep RL models </li>
 </ul>
