@@ -13,7 +13,6 @@
 <hr>
 <ul>
 <li> Sr. Machine Learning Scientist at System1! </li>
-<li> Successfully defended my Ph.D. Dissertation! </li>
 </ul>
  
 
