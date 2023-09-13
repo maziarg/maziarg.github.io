@@ -20,9 +20,9 @@
 <hr>
  I am a senior Machine Learning Scientist at System1! I obtained my PhD from <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and <a href="https://mila.quebec/en/">Mila</a> under the supervision of <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
 
-My broad research domains are machine learning, reinforcement learning and data privacy. My current research focus is on developing privacy-preserving machine learning systems. My goal is to design and develop privacy-aware machine learning algorithms that serve as the central core of AI systems. 
+I specialize in machine learning, reinforcement learning, and data privacy. Currently, I am focused on creating large-scale industrial machine learning systems using advanced Reinforcement Learning and Deep Learning techniques.
 
-During my studies, I designed and developed the first generation of privacy-preserving reinforcement learning (RL) algorithms. I also developed the first generation of membership infrence attacks against off-policy RL systems.
+During my studies, I pioneered the development of privacy-preserving reinforcement learning algorithms and initiated the first generation of membership inference attacks against off-policy RL systems.
   
 <h2 id="Projects">Publications</h2>
 <hr>
