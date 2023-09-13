@@ -32,8 +32,9 @@ During my studies, I designed and developed the first generation of privacy-pres
 <h2 id="Research">Research</h2> 
 <hr>
 <ul>
-<li>Deep Reinforcement Learning</li>
-<li>Privacy-Preserving Machine Learning </li>
+<li>Reinforcement Learning</li>
+<li>Machine Learning </li>
 <li>Data Privacy </li>
-<li>membersbership inference attacks against deep RL models </li>
+<li>Adversarial attacks against deep models </li>
+<li>Reinforcement learning from human feedback (RLHF) </li>
 </ul>
