@@ -12,17 +12,19 @@
 <h2 id="News">News</h2> 
 <hr>
 <ul>
-<li> Sr. Machine Learning Scientist at System1! </li>
+<li> Co-Founder at Elementera<a href="https://elementera.com//">.! </li>
 </ul>
  
 
 <h2 id="About">About</h2> 
 <hr>
- I am a senior Machine Learning Scientist at System1! I obtained my PhD from <a href="http://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and <a href="https://mila.quebec/en/">Mila</a> under the supervision of <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
+I have expertise in machine learning, reinforcement learning, deep learning, foundation models, and data privacy. Currently, I am focused on my venture, Elementera, where we are developing an enterprise framework designed to comprehensively facilitate AI adoption for small to medium-sized businesses from start to finish.
 
-I specialize in machine learning, reinforcement learning, and data privacy. Currently, I am focused on creating large-scale industrial machine learning systems using advanced Reinforcement Learning and Deep Learning techniques.
+Before Elementera, my focus was on creating large-scale industrial machine learning systems using advanced reinforcement learning and deep learning techniques.
 
-During my studies, I pioneered the development of privacy-preserving reinforcement learning algorithms and initiated the first generation of membership inference attacks against off-policy RL systems.
+I earned my PhD from <a href="https://rl.cs.mcgill.ca//">Reasoning and Learning Lab</a> at <a href="https://www.mcgill.ca//">McGill</a> and <a href="https://mila.quebec/en/">Mila</a> under the supervision of <a href="http://rl.cs.mcgill.ca/people/doina-precup/">Doina Precup</a>.
+
+During my studies, I pioneered the development of privacy-preserving reinforcement learning algorithms and initiated the first generation of membership inference attacks against off-policy reinforcement learning systems.
   
 <h2 id="Projects">Publications</h2>
 <hr>
@@ -31,9 +33,8 @@ During my studies, I pioneered the development of privacy-preserving reinforceme
 <h2 id="Research">Research</h2> 
 <hr>
 <ul>
-<li>Reinforcement Learning</li>
 <li>Machine Learning </li>
+<li>Foundation Models </li>
+<li>Reinforcement Learning</li>
 <li>Data Privacy </li>
-<li>Adversarial attacks against deep models </li>
-<li>Reinforcement learning from human feedback (RLHF) </li>
 </ul>
