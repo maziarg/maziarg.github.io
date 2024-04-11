@@ -12,7 +12,7 @@
 <h2 id="News">News</h2> 
 <hr>
 <ul>
-<li> Co-Founder at Elementera<a href="https://elementera.com//">.! </li>
+<li> Co-Founder at Elementera <a href="https://elementera.com//"></li>
 </ul>
  
 
